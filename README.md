@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jakub Trznadel</h1>
 <h3 align="center">Beginner flutter developer from Poland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jtrznadel&label=Profile%20views&color=0e75b6&style=flat" alt="jtrznadel" /> </p>
+![](https://img.shields.io/static/v1?label=Profile+views&message=2137&color=blue)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jtrznadel" alt="jtrznadel" /></a> </p>
 
