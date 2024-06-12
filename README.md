@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jtrznadel" alt="jtrznadel" /></a> </p>
 
-- 🔭 I’m currently working on [socialEase](https://github.com/jtrznadel/socialease-app)
+- 🔭 I’m currently working on [f/sphere](https://github.com/jtrznadel/fsphere)
 
-- 🌱 I’m currently learning **Flutter (Bloc, Provider, Cubit), Firebase**
+- 🌱 I’m currently learning **Flutter, Firebase, Swift, SwiftUI**
 
 - 📫 How to reach me **trznadeljakub@outlook.coim**
 
