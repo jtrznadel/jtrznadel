@@ -25,7 +25,6 @@ I'm Jakub, a passionate beginner Flutter developer from Poland. When I'm not cod
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### Projects
 
@@ -38,12 +37,17 @@ I'm Jakub, a passionate beginner Flutter developer from Poland. When I'm not cod
 
 ### GitHub Activity
 
-[![jtrznadel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jtrznadel&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jtrznadel&show_icons=true&locale=en" alt="jtrznadel" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jtrznadel&" alt="jtrznadel" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jtrznadel&show_icons=true&locale=en&layout=compact" alt="jtrznadel" />
+[![jtrznadel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jtrznadel&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div style="display: flex;" align="center">
+  <div style="flex: 1; display: flex; align-items: stretch;">
+    <img src="https://github-readme-stats.vercel.app/api?username=jtrznadel" alt="jtrznadel" style="width: 50%; object-fit: cover;" />
+  </div>
+  <div style="flex: 1; display: flex; align-items: stretch;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtrznadel" alt="jtrznadel" style="width: 50%; object-fit: cover;" />
+  </div>
+  <div style="flex: 1; display: flex; align-items: stretch;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jtrznadel" alt="jtrznadel" style="width: 50%; object-fit: cover;" />
+  </div>
 </div>
 
 ### Random Dev Joke
