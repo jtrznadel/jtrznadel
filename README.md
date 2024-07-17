@@ -9,7 +9,7 @@
 
 I'm Jakub, a passionate beginner Flutter developer from Poland. When I'm not coding, you can find me at the (climbing)gym, working on building both my body and mind or exploring the picturesque mountain paths, seeking new perspectives and adventures. I'm passionate about pushing boundaries and embracing challenges, both in the tech world and in the great outdoors.
 
-- 🛠️ I’m currently working on [f/sphere](https://github.com/jtrznadel/fsphere) & [marvelComics](https://github.com/jtrznadel/marvel-comics-app)
+- 🛠️ I’m currently working on [f/sphere](https://github.com/jtrznadel/fsphere) & [simpleGeminiChatbot](https://github.com/jtrznadel/simpleGeminiChatbot)
 - 🚀 I’m continuously enhancing my skills in **Flutter**
 - 📘 Additionally, I’m exploring and learning **Swift** and **SwiftUI**
 - 📫 How to reach me **trznadeljakub@outlook.com**
@@ -29,8 +29,9 @@ I'm Jakub, a passionate beginner Flutter developer from Poland. When I'm not cod
 ### Projects
 
 - 📷 [f/sphere](https://github.com/jtrznadel/fsphere): Currently working on this project, a blog platform for photographers to showcase their works. **(Flutter)**
+- 🤖 [simpleGeminiChatbot](https://github.com/jtrznadel/simpleGeminiChatbot): Currently working on this project, speaks for itself, simple chatbot using Gemini Model with some cool features **(Flutter)**
 - 👪 [socialEase](https://github.com/jtrznadel/socialease-app): Engineer's thesis project focusing on supporting social activation. **(Flutter)**
-- 🦸 [marvelComics](https://github.com/jtrznadel/marvel-comics-app): Currently being developed for a recruitment task, a portal with information about Marvel comics. **(Flutter)**
+- 🦸 [marvelComics](https://github.com/jtrznadel/marvel-comics-app): Developed for a recruitment task, a portal with information about Marvel comics. **(Flutter)**
 - 💸 [budgetBuddy](https://github.com/jtrznadel/budgetBuddy): Group project for tracking household expenses with UI in Flutter and API in .NET. **(Flutter)**
 - 💼 [portfolio](https://github.com/jtrznadel/jtrznadel-portfolio): A web portfolio project developed in free time, available at jtrznadel.me. **(Flutter)**
 - 🏠 [AirbnbUIClone](https://github.com/jtrznadel/AirbnbClone-SwiftUI-): A UI clone of the popular Airbnb app developed in Swift. **(SwiftUI)**
