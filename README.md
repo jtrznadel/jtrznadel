@@ -39,20 +39,19 @@ I'm Jakub, a passionate beginner Flutter developer from Poland. When I'm not cod
 
 ### GitHub Activity
 
-[![jtrznadel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jtrznadel&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<div style="display: flex;" align="center">
-  <div style="flex: 1; display: flex; align-items: stretch;">
-    <img src="https://github-readme-stats.vercel.app/api?username=jtrznadel" alt="jtrznadel" style="width: 50%; object-fit: cover;" />
-  </div>
-  <div style="flex: 1; display: flex; align-items: stretch;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtrznadel" alt="jtrznadel" style="width: 50%; object-fit: cover;" />
-  </div>
-  <div style="flex: 1; display: flex; align-items: stretch;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jtrznadel" alt="jtrznadel" style="width: 50%; object-fit: cover;" />
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtrznadel" alt="jtrznadel" width="100%" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=jtrznadel" alt="jtrznadel" width="100%" /><br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jtrznadel" alt="jtrznadel" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ### Random Dev Joke
 <div align="center">
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
