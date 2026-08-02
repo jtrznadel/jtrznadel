@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Jakub</h1>
-<h3 align="center">Flutter Developer 🚀 1.5+ years of experience 📍 Rzeszów, Poland</h3>
+<h3 align="center">Flutter Developer 🚀 2 years of experience 📍 Rzeszów, Poland</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jtrznadel&label=Profile%20views&color=brightgreen&style=flat" alt="jtrznadel" /> </p> -->
 
@@ -7,7 +7,7 @@
 
 ### Hi there! 👋
 
-I'm Jakub, a Flutter developer from Poland with over 1.5 years of experience building mobile applications. When I'm not coding, you can find me at the climbing gym or exploring mountain trails. I'm passionate about building meaningful products and continuously improving both in tech and beyond.
+I'm Jakub, a Flutter developer from Poland with 2 years of experience building mobile applications. When I'm not coding, you can find me at the climbing gym or exploring mountain trails. I'm passionate about building meaningful products and continuously improving both in tech and beyond.
 
 - 🛠️ I’m currently working on 🌍 [roam-app](https://github.com/jtrznadel/roam-app) & [roam-api](https://github.com/jtrznadel/roam-api)
 - 🚀 I’m continuously enhancing my skills in **Flutter**
